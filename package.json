@@ -1,0 +1,33 @@
+{
+  "name": "babel-plugin-periscope",
+  "description": "babel plugin to analyze scopes in es6 code",
+  "version": "0.1.0",
+  "keywords": [
+    "babel",
+    "plugin",
+    "scope"
+  ],
+  "maintainers": [
+    {
+      "name": "David Wilhelm",
+      "web": "http://dafishinsea.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "David Wilhelm",
+      "web": "http://dafishinsea.com"
+    }
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "repositories": {
+    "type": "git",
+    "url": "http://github.com/bigfish/babel-plugin-periscope.git"
+  },
+  "dependencies": {
+    "babel-core": "^5.6.0",
+    "es6-module-loader": "^0.17.5"
+  }
+}

@@ -1,0 +1,6 @@
+#Periscope - a Babel Plugin
+
+##Goal : to analyze the scopes areas of a .js file
+
+
+WIP!
